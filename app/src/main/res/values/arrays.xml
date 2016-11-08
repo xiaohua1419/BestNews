@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="catyegrries">
+        <item>华闻1</item>
+        <item>华闻2</item>
+        <item>华闻3</item>
+        <item>华闻4</item>
+        <item>华闻5</item>
+        <item>华闻6</item>
+        <item>华闻7</item>
+        <item>华闻8</item>
+        <item>华闻9</item>
+        <item>华闻10</item>
+    </string-array>
+</resources>
